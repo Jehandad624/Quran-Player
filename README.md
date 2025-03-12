@@ -12,12 +12,11 @@ This Python script creates a video with Quranic recitations and translations ove
 
 ## Requirements
 - Python 3.10+
-- `quran` library
-- `requests`
-- `pydub`
-- `pytubefix`
-- `moviepy`
-- `mutagen`
+- moviepy==1.0.3
+- mutagen==1.47.0
+- pydub==0.25.1
+- pytubefix==8.12.2
+- Requests==2.32.3
 - ImageMagick (with path configured in the script)
 
 ## Setup
