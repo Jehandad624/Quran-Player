@@ -1,7 +1,7 @@
 # Quran Video Generator
 
 This Python script creates a video with Quranic recitations and translations overlaid on a background video. It downloads audio recitations, generates subtitles, and synchronizes everything into a final video.
-
+NOTE: You can also create your own playlist of nature videos on youtube and use it. Make sure the video length is appropriate so it doesn't take much space and also fits to the length of required ayahs. (10-20 minutes)
 ## Features
 - Download Quranic recitations from a user-selected reciter
 - Fetch Quranic translations for specified ayahs
